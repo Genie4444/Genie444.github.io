@@ -1,3 +1,9 @@
+---
+layout: single
+title:  "Worshop으로 Class 복습(초안)"
+---
+### 1일 1커밋을 위해 내마음대로 해석 및 공부한 자료, 지속적으로 수정할 예정
+
 ```python
 from abc import abstractmethod, ABCMeta
 
